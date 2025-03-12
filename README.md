@@ -17,7 +17,7 @@ ProyectoDashboard.xlsx :  *Tablas, tablas dinámicas y Dashboard*
 README.md:   *Descripción del proyecto*
 
 
-# :mag: Columnas dataset 
+## :mag: **Columnas dataset**
 
 **Booking_ID:** Identificador único para cada reserva
 
