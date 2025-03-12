@@ -80,8 +80,8 @@ Este proyecto utiliza Microsoft Excel.
 
 ## :feet:**Próximos pasos**
 
-Sería ideal, para poder refinar el modelo predictivo, obtener datos como: porcentaje de ocupación del hotel al momento de la reserva, motivo de cancelación expresado por el cliente, política de cancelación de cada una (totalmente reembolsable, parcialmente reembolsable, con costo de cancelación, etc.), y si alguna de ellas fue reubicada o reprogramada para una fecha diferente. Así como también si existió alguna campaña de marketing o descuentos en el período de tiempo explorado.
-Con esta información podríamos terminar de sacar conclusiones más acertadas y poder así realizar predicciones precisas para poder evitar futuras cancelaciones y con ellas pérdidas económicas para la empresa.
+Sería ideal, para poder refinar el análisis, obtener datos como: porcentaje de ocupación del hotel al momento de la reserva, motivo de cancelación expresado por el cliente, política de cancelación de cada una (totalmente reembolsable, parcialmente reembolsable, con costo de cancelación, etc.), y si alguna de ellas fue reubicada o reprogramada para una fecha diferente. Así como también si existió alguna campaña de marketing o descuentos en el período de tiempo explorado.
+Con esta información, podríamos lograr sacar conclusiones más acertadas y precisas para poder evitar futuras cancelaciones, y con ellas pérdidas económicas para la empresa.
 
 
 ## :bust_in_silhouette:**Autor**
