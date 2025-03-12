@@ -3,6 +3,7 @@
 ## :memo:**Descripción**
 
 Este proyecto lleva a cabo un exploración y análisis de las reservas canceladas de un establecimiento hotelero, en un período de tiempo determinado. El objetivo es identificar factores facilitadores, así como tendencias y posibles causas de las cancelaciones, para poder tomar decisiones futuras y de esta manera evitarlas.
+
 Fuente: https://www.kaggle.com/datasets/youssefaboelwafa/hotel-booking-cancellation-prediction?resource=download
 
 
