@@ -17,6 +17,53 @@ ProyectoDashboard.xlsx :  *Tablas, tablas dinámicas y Dashboard*
 README.md:   *Descripción del proyecto*
 
 
+# :mag: Columnas dataset 
+
+**Booking_ID:** Identificador único para cada reserva
+
+**Adults:** Número de adultos incluidos en la reserva
+
+**Children:** Número de niños incluidos en la reserva
+
+**Total PAX:** Total de personas inluidas en la reserva	
+
+**Weekend nights:** Número de noches de fin de semana incluidas en la reserva
+
+**Week nights:** Número de noches entre semana incluidas en la reserva
+
+**Total nights:** Total de noches incluidas en la reserva
+
+**Type of meal:** Tipo de comida incluido en la reserva
+
+**Car parking space:** Indica si ha incluido plaza de aparcamiento en la reserva
+
+**Room type:** Tipo de habitación reservada
+
+**RoomType Agrupado:** Columna creada para analizar tipos de habitación reservados con más frecuencia
+
+**Lead time (days):** Número de días entre la fecha de reserva y la fecha de llegada
+
+**Market segment type:** Tipo de segmento de mercado asociado a la reserva
+
+**Repeated:** Indica si es una reserva repetida
+
+**P-C:** Número de reservas anteriores canceladas por el cliente antes de la reserva actual
+
+**P-not-C:** Número de reservas anteriores no canceladas por el cliente antes de la reserva actual
+
+**Average price:** Precio medio asociado a la reserva
+
+**ADR ok:** Columna de precio medio asociado a la reserva con valores extremos agrupados
+
+**Special requests:** Número de peticiones especiales realizadas por el huésped
+
+**Date of reservation:** Fecha de la reserva
+
+**M-Y reservation:** Extracción del mes y año de la reserva	
+
+**Booking status:** Estado de la reserva
+
+
 ## :wrench:**Herramientas**
 
 Este proyecto utiliza Microsoft Excel.
